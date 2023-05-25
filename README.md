@@ -12,6 +12,10 @@ I am a Data Analyst with experience in collecting, transforming, and collecting,
 - 💬 Ask me about Amazon Delivery process, Statistics, and Data Mining.
 - 😄 Pronouns: he/him
 
+📬 Feel free to reach out to me if you have any interesting projects or if you think we can collaborate. Let's build something amazing together!
+
+🌐 Check out my portfolio at [Portfolio](https://github.com/PyiThan) to see some of my previous work.
+
 
 ### Languages and Tools:
 
