@@ -1,12 +1,14 @@
 ## Pyi Than :octocat:
 
-I am an aspiring data analyst with experience in collecting, transforming, and collecting, and organizing data for analysis to help make informed decisions. I have experience in designing data visualizations, cleaning data, and conducting data presentations.  
+I am a Data Analyst with experience in collecting, transforming, and collecting, and organizing data for analysis to help make informed decisions. I have experience in designing data visualizations, cleaning data, and conducting data presentations.
+
+💼 Currently seeking new projects and collaborations where I can contribute my skills and expertise.
 
 ## Something about me:
 
-- 🔭 I’m currently a final year student at San Francisco State University.
-- 🌱 I’m currently looking for a Data Analyst intern in San Francisco Bay Area.
-- 👯 I was a Learning Ambassador at Amazon Delivery station for two years.
+- 🔭 I’m a graduate student San Francisco State University.
+- 🌱 I’m currently looking for a Data Analyst or Business Analyst position in San Francisco Bay Area.
+- 👯 I am a Learning Ambassador at Amazon Delivery station for two years.
 - 💬 Ask me about Amazon Delivery process, Statistics, and Data Mining.
 - 😄 Pronouns: he/him
 
