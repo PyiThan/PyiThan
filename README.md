@@ -36,7 +36,7 @@ I am a Data Analyst with experience in collecting, transforming, and collecting,
   </a>
 
 <a href="#">
-    <img src="[https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/Tableau.svg](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/swift.svg)" alt="swift" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
   </a>
   
   
