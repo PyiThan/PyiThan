@@ -16,6 +16,9 @@ I am a Data Analyst with experience in collecting, transforming, and collecting,
 
 🌐 Check out my portfolio at [Portfolio](https://github.com/PyiThan) to see some of my previous work.
 
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=PyiThan&show_icons=true&hide_rank=true&title&theme=cobalt)](https://github.com/PyiThan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyiThan&layout=donut)](https://github.com/PyiThan/github-readme-stats)
 
 ### Languages and Tools:
 
